@@ -1,17 +1,13 @@
 ﻿## Interface: 11200
 
 ## Title: Prat |cFF0000aa(Vanilla)|r |cff7fff7f -Ace2-|r
-## Title-zhCN: |cff7fff7f-Ace2-|r Prat 
 ## Notes: A framework for chat frame modules.
-## Notes-frFR: Framework pour des modules concernant les fentres de discussion
-## Version: 1.0.$Revision: 16165 $
-## Author: Prat Development Team
+## Author: Fulzamoth
 
 ## X-Category: Chat/Communication
-## X-Website: http://www.wowace.com/mediawiki/index.php?title=Prat
-## X-AceForum: 2404
+## X-Website: https://github.com/fulzamoth/Prat-V
 ## X-Embeds: Ace2
-## X-Credits: Industrial, Ammo, Cirk, Yris, Leuchtturm, AnduinLothar, Satrina, <CWDG>昏睡墨鱼&月色狼影
+## X-Credits: Industrial, Ammo, Cirk, Yris, Leuchtturm, AnduinLothar, Satrina, <CWDG>昏睡墨鱼&月色狼影, Prat Development Team
 
 ## OptionalDeps: Ace2
 
@@ -30,7 +26,7 @@ libs\AceModuleCore-2.0\AceModuleCore-2.0.lua
 libs\AceLocale-2.2\AceLocale-2.2.lua
 libs\Babble-Class-2.2\Babble-Class-2.2.lua
 
-Prat.lua
+main.lua
 
 modules\Buttons.lua
 modules\ChannelNames.lua
